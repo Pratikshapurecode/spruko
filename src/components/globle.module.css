@@ -1,0 +1,123 @@
+
+.nb_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(94, 94, 238);
+    /* border: 1px solid red; */
+    font-size: 14px;
+    gap: 60px;
+    height: 15vh;
+    
+}
+
+.nb_lt_ct{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nb_md_ct{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nb_rt_ct{
+    width: 320px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+}
+
+.nb_rt_rtsub_ct{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 2px;
+    /* border: 1px solid red; */
+}
+.nb_rt_ltsub_ct{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    
+    /* border: 1px solid red; */
+}
+
+.nb_img_box{
+    width: 24px;
+    height: 24px;
+}
+.nb_pf_img_box{
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+/* Slider CSS */
+
+.sld_container{
+    width: 280px;
+    background-color: #f5f3f3;
+    font-size: smaller;
+    padding-top: 20px;
+}
+.sld_sub_ct{
+    width: 80%;
+    margin: auto;
+}
+.sld_ct_boxs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sld_ct_box{
+    width: 200px;
+    display: flex;
+    gap: 1px;
+    align-items: center;
+}
+
+.sld_img_box{
+    width: 16px;
+    height: 16px;
+    background-color: #f5f3f3;
+    
+}
+.sld_img_box_a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 4px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 1px rgb(209, 209, 209);
+}
+
+
+
+
+
+.material-symbols-outlined{
+    width: 24px;
+    height: 24px;
+    background-color: black;
+    
+}
+
+
+
